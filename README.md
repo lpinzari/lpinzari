@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+**I'm Ludovico Pinzari**
 <!--
 **lpinzari/lpinzari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coder GIF"> 
+![](https://komarev.com/ghpvc/?username=lpinzari&style=plastic&color=brightgreen)
 
 I'm a research scientist with a CS engineering background and Math geek with a passion for quality code and innovation. Experienced PhD Data Scientist working in Health Industry for Government agencies.
 
@@ -46,10 +50,9 @@ I did simple blogs in Ruby deployed on Heroku
 
 ### Some geeky GitHub Stats
 ![Ludo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpinzari&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/lpinzari/github-readme-stats)
 
 ### 📫 How to reach me:
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png?thumb=y&width=275&height=275" width="60" height="60"/>](https://www.linkedin.com/in/ludovico-pinzari/)
-- [<img src="http://martinliebermandotcom.files.wordpress.com/2013/03/twitter_logo.jpg" width="60" height="60"/>](https://twitter.com/ludovicopinzari)
-- [<img src="https://aadityapurani.files.wordpress.com/2015/09/hackerrank-logo.jpg" width="60" height="60"/>](https://www.hackerrank.com/ludovico_pinzari)
-- [<img src="https://webdirector-blog.com/media/leetocode_logo.jpg" width="60" height="60"/>](https://leetcode.com/lpinzari/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png?thumb=y&width=275&height=275" width="60" height="60"/>](https://www.linkedin.com/in/ludovico-pinzari/)
+[<img src="http://martinliebermandotcom.files.wordpress.com/2013/03/twitter_logo.jpg" width="60" height="60"/>](https://twitter.com/ludovicopinzari)
+[<img src="https://aadityapurani.files.wordpress.com/2015/09/hackerrank-logo.jpg" width="60" height="60"/>](https://www.hackerrank.com/ludovico_pinzari)
+[<img src="https://webdirector-blog.com/media/leetocode_logo.jpg" width="60" height="60"/>](https://leetcode.com/lpinzari/)
