@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coder GIF"> 
 
+> Creativity is the dirver of an unstoppable train called passion
 
 I'm a research scientist with a CS engineering background and Math geek with a passion for quality code and innovation. Experienced PhD Data Scientist working in Health Industry for Government agencies.
 
