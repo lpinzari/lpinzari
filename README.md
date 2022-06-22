@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm Ludovico Pinzari**
+**I'm Ludovico Pinzari a Math geek with a passion for quality code and innovation.**
 <!--
 **lpinzari/lpinzari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 > Creativity is the dirver of an unstoppable train called passion
 
-I'm a research scientist with a CS engineering background and Math geek with a passion for quality code and innovation. Experienced PhD Data Scientist working in Health Industry for Government agencies.
+I'm a research scientist with a CS engineering background. Experienced PhD Data Scientist working in Health Industry for Government agencies.
 
 My research focussed on the design of statistical indicies for classification and clustering geographic areas with similar demographic and socioeconomic charateristics. An open source tool is available in this repo : 
 - [homogeneity and location index](https://github.com/lpinzari/homogeneity-location-index).
@@ -32,11 +32,13 @@ Learning and sharing knowledge are the best component of my personality. In this
 - [SQL & PostgreSql](https://github.com/lpinzari/sql-psql-udy) 
 - [Git & GitHub](https://github.com/lpinzari/git-github-udy) 
 - [Unix Shell](https://github.com/lpinzari/unix-shell-udy)
-- [Data structure & Algorithms in Python](https://github.com/lpinzari/udacity-dsa-nand)
+- [Data structures & Algorithms in Python](https://github.com/lpinzari/udacity-dsa-nand)
 - ... Many more to come 😄 **Knowledge shared** = **Knowledge**<sup>2</sup>
 
+<p align="center">If you like it, do fork 🍴 and star ⭐</p>
+
 Beside my research activity, I'm passionate of Art Drawing and game programming. You can enjoy the following simple games implemented in Javascript (I did my best to write and documenting the code 😄):
-- [memory game](https://github.com/lpinzari/memory-game), mobile compatibel
+- [memory game](https://github.com/lpinzari/memory-game), mobile compatible
 - [tic tac toe](https://github.com/lpinzari/tic-tac-toe), mobile compatible
 - [light out Game](https://github.com/lpinzari/lights-out-game), mobile compatible
 - [bugs arcade game](https://github.com/lpinzari/bugs-arcade-game), keyboard only
