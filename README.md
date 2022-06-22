@@ -50,7 +50,7 @@ I did simple blogs in Ruby deployed on Heroku
 
 ### Some geeky GitHub Stats
 ![Ludo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpinzari&show_icons=true&theme=radical)
-[![Ludo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lpinzari)](https://github.com/lpinzari/github-readme-stats)
+
 
 ### 📫 How to reach me:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png?thumb=y&width=275&height=275" width="60" height="60"/>](https://www.linkedin.com/in/ludovico-pinzari/)
