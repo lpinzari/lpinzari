@@ -1,6 +1,8 @@
-### Hi there 👋
+<h1 align="center">
+  Welcome to Ludovico Pinzari's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-**I'm Ludovico Pinzari a Math geek with a passion for quality code and innovation.**
 <!--
 **lpinzari/lpinzari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +24,7 @@ Here are some ideas to get you started:
 
 > Creativity is the dirver of an unstoppable train called passion
 
-I'm a research scientist with a CS engineering background. Experienced PhD Data Scientist working in Health Industry for Government agencies.
+I'm a Math geek with a passion for quality code and innovation. Experienced PhD Data Scientist with a CS engineering background working in Health Industry for Government agencies.
 
 My research focussed on the design of statistical indicies for classification and clustering geographic areas with similar demographic and socioeconomic charateristics. An open source tool is available in this repo : 
 - [homogeneity and location index](https://github.com/lpinzari/homogeneity-location-index).
