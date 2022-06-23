@@ -59,10 +59,10 @@ I did simple blogs in Ruby deployed on Heroku
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lpinzari&theme=dark&background=000000)](https://git.io/streak-stats) --->
 
 
-| <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lpinzari&show_icons=true&theme=radical" alt="Ludo's github stats" /></a> | <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=lpinzari&theme=dark&background=000000" /></a> 
+| <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lpinzari&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Ludo's github stats" /></a> | <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=lpinzari&theme=react&border_color=61dafb&hide_border=true" /></a> 
 | ------------- | ------------- |
 
-| <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpinzari&layout=compact&theme=vision-friendly-dark" alt="Ludo's github stats" /></a> 
+| <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpinzari&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="Ludo's github stats" /></a> 
 | ------------- | 
 
 [![Ludo's github activity graph](https://activity-graph.herokuapp.com/graph?username=lpinzari&theme=react-dark)](https://github.com/lpinzari/github-readme-activity-graph)
