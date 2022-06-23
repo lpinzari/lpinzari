@@ -52,14 +52,18 @@ I did simple blogs in Ruby deployed on Heroku
 - Deep Learning
 
 ### Some geeky GitHub Stats
-![Ludo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpinzari&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lpinzari&theme=dark&background=000000)](https://git.io/streak-stats)
+<!--- ![Ludo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpinzari&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lpinzari&theme=dark&background=000000)](https://git.io/streak-stats) --->
 
 
-| <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lpinzari&show_icons=true&include_all_commits=true&theme=radical" alt="Ludo's github stats" /></a> | <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpinzari&layout=compact&theme=radical" /></a> |
+| <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lpinzari&show_icons=true&theme=radical" alt="Ludo's github stats" /></a> | <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=lpinzari&theme=dark&background=000000" /></a> 
 | ------------- | ------------- |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpinzari&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpinzari&layout=compact&theme=vision-friendly-dark" alt="Ludo's github stats" /></a> 
+| ------------- | 
+
+
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpinzari&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) --->
 
 <h2 align="center">Technology Stack </h2>
 <p align="center"> 
