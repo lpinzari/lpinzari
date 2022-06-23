@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coder GIF"> 
 
-
 > Creativity is the dirver of an unstoppable train called passion
 
 I'm a Math geek with a passion for quality code and innovation. Experienced PhD Data Scientist with a CS engineering background working in Health Industry for Government agencies.
@@ -98,3 +97,5 @@ I did simple blogs in Ruby deployed on Heroku
 [<img src="https://webdirector-blog.com/media/leetocode_logo.jpg" width="60" height="60"/>](https://leetcode.com/lpinzari/)
 [<img src="https://avatars.githubusercontent.com/u/1073651?s=200&v=4" width="60" height="60"/>](https://www.researchgate.net/profile/Ludovico-Pinzari)
 [<img src="https://user-images.githubusercontent.com/66117993/96351903-818a8b00-1084-11eb-96f6-3a931d66fff6.png" width="60" height="60"/>](https://scholar.google.com/citations?user=7t4r2FcAAAAJ&hl=en)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lpinzari.lpinzari)
