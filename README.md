@@ -27,10 +27,13 @@ I'm a Math geek with a passion for quality code and innovation. Experienced PhD 
 
 <h2 align="center">👨‍💻 Research Project & Publications 👨‍💻</h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/lpinzari/homogeneity-location-index" title="homogeneity&location_index"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lpinzari&repo=homogeneity-location-index&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/lpinzari/mapping-networks-r-arcgis" title="Mapping Network Flow"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lpinzari&repo=mapping-networks-r-arcgis&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+<a href="https://github.com/lpinzari/homogeneity-location-index" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lpinzari&repo=homogeneity-location-index&theme=react&border_color=61dafb&border_radius=10" />
+</a>
+<a href="https://github.com/lpinzari/mapping-networks-r-arcgis" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lpinzari&repo=mapping-networks-r-arcgis&theme=react&border_color=61dafb&border_radius=10" />
+</a>
+<br/><br/>
 <!--- My research focussed on the design of statistical indicies for classification and clustering geographic areas with similar demographic and socioeconomic charateristics. An open source tool is available in this repo : 
 - [homogeneity and location index](https://github.com/lpinzari/homogeneity-location-index).
 - [Mapping Network flow in R and Arcgis](https://github.com/lpinzari/mapping-networks-r-arcgis) 
@@ -40,15 +43,19 @@ The following link includes conferences, publication and presentation of the pro
 
 <h2 align="center">📖 Personal Notes & Tutorials 📖</h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/lpinzari/sql-psql-udy" title="sql postgresql"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lpinzari&repo=sql-psql-udy&theme=react&border_color=61dafb&border_radius=10"></a><a align="center" href="https://github.com/lpinzari/udacity-dsa-nand" title="Data Structures & Algorithms Python"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lpinzari&repo=udacity-dsa-nand&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/lpinzari/unix-shell-udy" title="unix shell"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lpinzari&repo=unix-shell-udy&theme=react&border_color=61dafb&border_radius=10"></a><a align="left" href="https://github.com/lpinzari/git-github-udy" title="Git & GitHub"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lpinzari&repo=git-github-udy&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
+<a href="https://github.com/lpinzari/sql-psql-udy" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lpinzari&repo=sql-psql-udy&theme=react&border_color=61dafb&border_radius=10" />
+</a>
+<a href="https://github.com/lpinzari/udacity-dsa-nand" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lpinzari&repo=udacity-dsa-nand&theme=react&border_color=61dafb&border_radius=10" />
+</a>
+<a href="https://github.com/lpinzari/unix-shell-udy" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lpinzari&repo=unix-shell-udy&theme=react&border_color=61dafb&border_radius=10" />
+</a>
+<a href="https://github.com/lpinzari/git-github-udy" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lpinzari&repo=git-github-udy&theme=react&border_color=61dafb&border_radius=10" />
+</a>
+<br/><br/>
 
 <p align="center">Many more to come 😄 <bold>Knowledge shared</bold> = <bold>Knowledge<sup>2</sup></bold></p>
 
