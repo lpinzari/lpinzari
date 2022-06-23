@@ -38,12 +38,19 @@ I'm a Math geek with a passion for quality code and innovation. Experienced PhD 
 
 The following link includes conferences, publication and presentation of the project: [SA3 Browser: A Tool for classification and comparison of geographic areas](https://www.ludovicopinzari.net/portfolio.html).
 
-Learning and sharing knowledge are the best component of my personality. In this gitHub account you find personal notes and tutorials on various topics:
-- [SQL & PostgreSql](https://github.com/lpinzari/sql-psql-udy) 
-- [Git & GitHub](https://github.com/lpinzari/git-github-udy) 
-- [Unix Shell](https://github.com/lpinzari/unix-shell-udy)
-- [Data structures & Algorithms in Python](https://github.com/lpinzari/udacity-dsa-nand)
-- ... Many more to come 😄 **Knowledge shared** = **Knowledge**<sup>2</sup>
+<h2 align="center">📖 Personal Notes & Tutorials 📖</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/lpinzari/sql-psql-udy" title="sql postgresql"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lpinzari&repo=sql-psql-udy&theme=react&border_color=61dafb&border_radius=10"></a><a align="center" href="https://github.com/lpinzari/udacity-dsa-nand" title="Data Structures & Algorithms Python"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lpinzari&repo=udacity-dsa-nand&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/lpinzari/unix-shell-udy" title="unix shell"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lpinzari&repo=unix-shell-udy&theme=react&border_color=61dafb&border_radius=10"></a><a align="left" href="https://github.com/lpinzari/git-github-udy" title="Git & GitHub"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lpinzari&repo=git-github-udy&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+
+<p align="center">Many more to come 😄 <bold>Knowledge shared</bold> = <bold>Knowledge<sup>2</sup></bold></p>
 
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
 
