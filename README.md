@@ -62,6 +62,8 @@ I did simple blogs in Ruby deployed on Heroku
 | <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpinzari&layout=compact&theme=vision-friendly-dark" alt="Ludo's github stats" /></a> 
 | ------------- | 
 
+[![Ludo's github activity graph](https://activity-graph.herokuapp.com/graph?username=lpinzari&theme=react-dark)](https://github.com/lpinzari/github-readme-activity-graph)
+
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpinzari&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) --->
 
