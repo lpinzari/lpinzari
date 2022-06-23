@@ -25,9 +25,16 @@ Here are some ideas to get you started:
 
 I'm a Math geek with a passion for quality code and innovation. Experienced PhD Data Scientist with a CS engineering background working in Health Industry for Government agencies.
 
-My research focussed on the design of statistical indicies for classification and clustering geographic areas with similar demographic and socioeconomic charateristics. An open source tool is available in this repo : 
+<h2 align="center">👨‍💻 Research Project & Publications 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/lpinzari/homogeneity-location-index" title="homogeneity&location_index"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lpinzari&repo=homogeneity-location-index&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/lpinzari/mapping-networks-r-arcgis" title="Mapping Network Flow"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lpinzari&repo=mapping-networks-r-arcgis&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<!--- My research focussed on the design of statistical indicies for classification and clustering geographic areas with similar demographic and socioeconomic charateristics. An open source tool is available in this repo : 
 - [homogeneity and location index](https://github.com/lpinzari/homogeneity-location-index).
-- [Mapping Network flow in R and Arcgis](https://github.com/lpinzari/mapping-networks-r-arcgis)
+- [Mapping Network flow in R and Arcgis](https://github.com/lpinzari/mapping-networks-r-arcgis) 
+--->
 
 The following link includes conferences, publication and presentation of the project: [SA3 Browser: A Tool for classification and comparison of geographic areas](https://www.ludovicopinzari.net/portfolio.html).
 
