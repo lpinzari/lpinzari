@@ -71,6 +71,7 @@ I did simple blogs in Ruby deployed on Heroku
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
   <img src="https://a11ybadges.com/badge?logo=github"/>
   <img src="https://a11ybadges.com/badge?logo=git"/>
 </p>
@@ -80,5 +81,5 @@ I did simple blogs in Ruby deployed on Heroku
 [<img src="http://martinliebermandotcom.files.wordpress.com/2013/03/twitter_logo.jpg" width="60" height="60"/>](https://twitter.com/ludovicopinzari)
 [<img src="https://aadityapurani.files.wordpress.com/2015/09/hackerrank-logo.jpg" width="60" height="60"/>](https://www.hackerrank.com/ludovico_pinzari)
 [<img src="https://webdirector-blog.com/media/leetocode_logo.jpg" width="60" height="60"/>](https://leetcode.com/lpinzari/)
-[<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" width="100" height="60"/>](https://www.researchgate.net/profile/Ludovico-Pinzari)
-[<img src="https://a11ybadges.com/badge?logo=googlescholar" width="100" height="60"/>](https://scholar.google.com/citations?user=7t4r2FcAAAAJ&hl=en)
+[<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" width="120" height="60"/>](https://www.researchgate.net/profile/Ludovico-Pinzari)
+[<img src="https://a11ybadges.com/badge?logo=googlescholar" width="120" height="60"/>](https://scholar.google.com/citations?user=7t4r2FcAAAAJ&hl=en)
