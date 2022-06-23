@@ -81,5 +81,5 @@ I did simple blogs in Ruby deployed on Heroku
 [<img src="http://martinliebermandotcom.files.wordpress.com/2013/03/twitter_logo.jpg" width="60" height="60"/>](https://twitter.com/ludovicopinzari)
 [<img src="https://aadityapurani.files.wordpress.com/2015/09/hackerrank-logo.jpg" width="60" height="60"/>](https://www.hackerrank.com/ludovico_pinzari)
 [<img src="https://webdirector-blog.com/media/leetocode_logo.jpg" width="60" height="60"/>](https://leetcode.com/lpinzari/)
-[<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" width="120" height="60"/>](https://www.researchgate.net/profile/Ludovico-Pinzari)
-[<img src="https://a11ybadges.com/badge?logo=googlescholar" width="120" height="60"/>](https://scholar.google.com/citations?user=7t4r2FcAAAAJ&hl=en)
+[<img src="https://avatars.githubusercontent.com/u/1073651?s=200&v=4" width="60" height="60"/>](https://www.researchgate.net/profile/Ludovico-Pinzari)
+[<img src="https://user-images.githubusercontent.com/66117993/96351903-818a8b00-1084-11eb-96f6-3a931d66fff6.png" width="60" height="60"/>](https://scholar.google.com/citations?user=7t4r2FcAAAAJ&hl=en)
