@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 
-|<img align="center" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coder GIF"> | - <a href="#Research">Research Project & Publications</a>  <br> - <a href="#Notes">Personal Notes & Tutorials</a>|
+|<img align="center" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coder GIF"> | - <a href="#Research">Research Project & Publications</a>  <br> - <a href="#Notes">Personal Notes & Tutorials</a> <br> - <a href="#Stats">Some geeky GitHub Stats</a>|
 | --- | --- |
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&myquote=Simplicity%20does%20not%20precede%20complexity,%20but%20follows%20it.)](https://github.com/piyushsuthar/github-readme-quotes)
@@ -84,6 +84,7 @@ I did simple blogs in Ruby deployed on Heroku
 - Story telling, Visualization 
 - Deep Learning
 
+<a id=Stats></a>
 ### Some geeky GitHub Stats
 <!--- ![Ludo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpinzari&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lpinzari&theme=dark&background=000000)](https://git.io/streak-stats) --->
