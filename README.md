@@ -89,6 +89,15 @@ I did simple blogs in Ruby deployed on Heroku
 | <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lpinzari&theme=github_dark" alt="profile's details" /></a> | <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lpinzari&theme=github_dark&utcOffset=2" alt="productive time" /></a>
 | ------------ | --------------- |
 
+![](https://komarev.com/ghpvc/?username=lpinzari&color=blue)
+[![Years Badge](https://badges.pufler.dev/years/lpinzari?color=blue)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/lpinzari?color=blue)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/all/lpinzari?color=blue)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/lpinzari?color=blue)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/lpinzari?color=blue)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/weekly/lpinzari?color=blue)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/daily/lpinzari?color=blue)](https://badges.pufler.dev)
+
 [![Ludo's github activity graph](https://activity-graph.herokuapp.com/graph?username=lpinzari&theme=react-dark)](https://github.com/lpinzari/github-readme-activity-graph)
 
 
@@ -125,4 +134,3 @@ I did simple blogs in Ruby deployed on Heroku
 <!--- 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lpinzari.lpinzari)
 --->
-![](https://komarev.com/ghpvc/?username=lpinzari&color=blue)
