@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coder GIF"> 
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&myquote=Simplicity%20does%20not%20precede%20complexity,%20but%20follows%20it.)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+
 > Creativity is the dirver of an unstoppable train called passion
 
 I'm a Math geek with a passion for quality code and innovation. Experienced PhD Data Scientist with a CS engineering background working in Health Industry for Government agencies.
