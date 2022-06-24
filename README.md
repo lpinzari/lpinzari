@@ -106,7 +106,7 @@ I did simple blogs in Ruby deployed on Heroku
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/lpinzari?color=blue)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/lpinzari?color=blue)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/weekly/lpinzari?color=blue)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/daily/lpinzari?color=blue)](https://badges.pufler.dev)
+
 
 [![Ludo's github activity graph](https://activity-graph.herokuapp.com/graph?username=lpinzari&theme=react-dark)](https://github.com/lpinzari/github-readme-activity-graph)
 
