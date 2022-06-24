@@ -1,3 +1,4 @@
+<a id=top></a>
 <h1 align="center">
   Welcome to Ludovico Pinzari's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -19,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 
-|<img align="center" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coder GIF"> | <a href="#Research">Research Project & Publications</a> |
+|<img align="center" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coder GIF"> | - <a href="#Research">Research Project & Publications</a>  <br> - <a href="#Notes">Personal Notes & Tutorials</a>|
 | --- | --- |
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&myquote=Simplicity%20does%20not%20precede%20complexity,%20but%20follows%20it.)](https://github.com/piyushsuthar/github-readme-quotes)
@@ -48,6 +49,7 @@ I'm a Math geek with a passion for quality code and innovation. Experienced PhD 
 
 The following link includes conferences, publication and presentation of the project: [SA3 Browser: A Tool for classification and comparison of geographic areas](https://www.ludovicopinzari.net/portfolio.html).
 
+<a id=Notes></a>
 <h2 align="center">📖 Personal Notes & Tutorials 📖</h2>
 <br>
 <a href="https://github.com/lpinzari/sql-psql-udy" target="_blank">
