@@ -83,10 +83,11 @@ I did simple blogs in Ruby deployed on Heroku
 | <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lpinzari&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Ludo's github stats" /></a> | <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=lpinzari&theme=react&border_color=61dafb&hide_border=true" /></a> 
 | ------------- | ------------- |
 
-| <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpinzari&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="Ludo's github stats" /></a>  | <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lpinzari&theme=github_dark" /></a> 
-| ------------- | -------------- |
+| <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpinzari&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="Ludo's github stats" /></a>  | <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lpinzari&theme=github_dark" /></a> | <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lpinzari&theme=github_dark" /></a>
+| ------------- | -------------- | -------------- |
 
-
+| <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lpinzari&theme=github_dark" alt="profile's details" /></a> | <a href="https://github.com/lpinzari/github-readme-stats"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lpinzari&theme=github_dark" alt="productive time" /></a>
+| ------------ | --------------- |
 
 [![Ludo's github activity graph](https://activity-graph.herokuapp.com/graph?username=lpinzari&theme=react-dark)](https://github.com/lpinzari/github-readme-activity-graph)
 
