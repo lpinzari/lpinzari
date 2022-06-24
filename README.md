@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 
-|<img align="center" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coder GIF"> | - <a href="#Research">Research Project & Publications</a>  <br> - <a href="#Notes">Personal Notes & Tutorials</a> <br> - <a href="#Stats">Some geeky GitHub Stats</a>|
+|<img align="center" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coder GIF"> | - <a href="#Research" >Research Project & Publications</a>  <br> - <a href="#Notes">Personal Notes & Tutorials</a> <br> - <a href="#Stats">Some geeky GitHub Stats</a> <br> - <a href="#Stack">Technology Stack</a> <br> - <a href="#Contacts">How to contact me</a>|
 | --- | --- |
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&myquote=Simplicity%20does%20not%20precede%20complexity,%20but%20follows%20it.)](https://github.com/piyushsuthar/github-readme-quotes)
@@ -113,6 +113,7 @@ I did simple blogs in Ruby deployed on Heroku
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpinzari&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) --->
 
+<a id=Stack></a>
 <h2 align="center">Technology Stack </h2>
 <p align="center"> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -133,6 +134,7 @@ I did simple blogs in Ruby deployed on Heroku
   <img src="https://a11ybadges.com/badge?logo=git" width="80" height="28"/>
 </p>
 
+<a id=Contacts></a>
 ### 📫 How to reach me:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png?thumb=y&width=275&height=275" width="60" height="60"/>](https://www.linkedin.com/in/ludovico-pinzari/)
 [<img src="http://martinliebermandotcom.files.wordpress.com/2013/03/twitter_logo.jpg" width="60" height="60"/>](https://twitter.com/ludovicopinzari)
