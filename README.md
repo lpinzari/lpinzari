@@ -123,3 +123,4 @@ I did simple blogs in Ruby deployed on Heroku
 [<img src="https://user-images.githubusercontent.com/66117993/96351903-818a8b00-1084-11eb-96f6-3a931d66fff6.png" width="60" height="60"/>](https://scholar.google.com/citations?user=7t4r2FcAAAAJ&hl=en)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lpinzari.lpinzari)
+![](https://komarev.com/ghpvc/?username=lpinzari&color=blue)
