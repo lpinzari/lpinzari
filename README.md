@@ -100,7 +100,7 @@ I did simple blogs in Ruby deployed on Heroku
 | ------------ | --------------- |
 
 ![](https://komarev.com/ghpvc/?username=lpinzari&color=blue)
-[![Years Badge](https://badges.pufler.dev/years/lpinzari?color=blue)](https://badges.pufler.dev)
+<!--- [![Years Badge](https://badges.pufler.dev/years/lpinzari?color=blue)](https://badges.pufler.dev) --->
 [![Repos Badge](https://badges.pufler.dev/repos/lpinzari?color=blue)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/all/lpinzari?color=blue)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/lpinzari?color=blue)](https://badges.pufler.dev)
